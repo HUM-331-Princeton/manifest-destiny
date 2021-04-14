@@ -1,5 +1,5 @@
 ---
-name: Your Name Here
+name: Hope Perry
 layout: author
 ---
-A bio page for contributors to the site.
+Hope Perry is a first-yeat undergraduate at Princeton University who enjoys watching C-SPAN and talking about Taylor Swift. 
