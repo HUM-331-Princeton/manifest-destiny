@@ -1,5 +1,6 @@
 ---
-name: Your Name Here
+name: Sophie Goldman
 layout: author
 ---
-A bio page for contributors to the site.
+
+Sophie Goldman is a sophomore majoring in Computer Science and pursuing a certificate in Statistics and Machine Learning. Along with the digital humanities, she is interested in the intersection of technology with education and gender. On campus, she is involved with the Society of Women Engineers and the McGraw Center for Teaching and Learning.
