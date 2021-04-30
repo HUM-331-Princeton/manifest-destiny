@@ -1,7 +1,8 @@
-layout: post
+---
+layout: page
 title: Who Was Thomas Adams?
 author: Hope Perry
-
+---
 
 A few fateful months ago I chose the enigmatically titled
 ["Journal"](/https://dpul.princeton.edu/pudl0017/catalog/qr46r491g) from Firestone Library's Western Americana Collection,
