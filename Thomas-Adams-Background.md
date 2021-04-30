@@ -23,6 +23,6 @@ With all this in mind, I hope you enjoy learning about Thomas Adams and Nellie M
 
 References
 
-“Stevens Pacific Railroad Survey.” Stevens Pacific Railroad Survey | Smithsonian National Museum of Natural History, [naturalhistory.si.edu/research/botany/about/historical-expeditions/stevens-pacific-railroad-survey](/naturalhistory.si.edu/research/botany/about/historical-expeditions/stevens-pacific-railroad-survey)
+“Stevens Pacific Railroad Survey.” Stevens Pacific Railroad Survey - Smithsonian National Museum of Natural History, [naturalhistory.si.edu/research/botany/about/historical-expeditions/stevens-pacific-railroad-survey](/naturalhistory.si.edu/research/botany/about/historical-expeditions/stevens-pacific-railroad-survey)
 
 “Thomas Adams Papers, 1852-1859 - Finding Aids.” Princeton University, The Trustees of Princeton University, [findingaids.princeton.edu/catalog/C1452#description](/findingaids.princeton.edu/catalog/C1452#description).
