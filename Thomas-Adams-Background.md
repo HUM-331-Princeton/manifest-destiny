@@ -5,12 +5,12 @@ author: Hope Perry
 ---
 
 A few fateful months ago I chose the enigmatically titled
-["Journal"](/https://dpul.princeton.edu/pudl0017/catalog/qr46r491g) from Firestone Library's Western Americana Collection,
+["Journal"](https://dpul.princeton.edu/pudl0017/catalog/qr46r491g) from Firestone Library's Western Americana Collection,
 and my journey with Thomas Adams began. Now, as Sophie and I wrap up our final
 project for HUM 331, I'm here to contextualize _who_ Thomas Adams is so that
 you've got some background information.
 
-Thomas Adams was a civil engineer, and at just 23 he was a part of the [Stevens Pacific Railroad Survey](/https://naturalhistory.si.edu/research/botany/about/historical-expeditions/stevens-pacific-railroad-survey). Running for two years, from 1853-1855, the Survey was one of 6 expeditions Congress funded that same year to try to find the best railroad route from the Pacific Ocean to the Mississippi River. The Stevens Survey went
+Thomas Adams was a civil engineer, and at just 23 he was a part of the [Stevens Pacific Railroad Survey](https://naturalhistory.si.edu/research/botany/about/historical-expeditions/stevens-pacific-railroad-survey). Running for two years, from 1853-1855, the Survey was one of 6 expeditions Congress funded that same year to try to find the best railroad route from the Pacific Ocean to the Mississippi River. The Stevens Survey went
 (North by) Northwest, through North Dakota, Wyoming, Idaho, and Montana. The particular journal we're using for the project actually starts off in Washington, DC, with the real travel beginning to be documented in Minnesota.
 
 On the trip, Adams was designated as a meteorologist and topographer, and the
