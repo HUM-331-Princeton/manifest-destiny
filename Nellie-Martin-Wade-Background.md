@@ -1,7 +1,7 @@
 ---
 layout: page
 author: Sophie Goldman
-title: Contextualizing Nellie Martin Wade
+title: Contextualizing Nellie Martin Wade's Journey
 ---
 
 ### Journeys and Journals
@@ -13,7 +13,7 @@ Nellie Martin Wade's [manuscript](https://findingaids.princeton.edu/collections/
 <!--more-->
 
 ### Explore the StoryMap
-<iframe src="https://uploads.knightlab.com/storymapjs/02742287fa921970683ca473b1311497/journey-to-alaska/index.html" frameborder="0" width="100%" height="800"></iframe>
+<iframe src="https://uploads.knightlab.com/storymapjs/02742287fa921970683ca473b1311497/journey-to-alaska-1/index.html" frameborder="0" width="100%" height="800"></iframe>
 
 ### Mapping the Journey
  When reading the description of each location in writing, it can be difficult to get a sense of the time and distance traveled. When looking at this journey on a map, viewers can better picture the experience of sailing for hundreds of miles, as the distance between locations is clearly represented. Despite the detailed location data shown on the StoryMap, only locations mentioned in chapters 2 and 3 of Wade's manuscript are represented. Part of my goal in documenting these points is to emphasize the arduousness of Wade's journey.
