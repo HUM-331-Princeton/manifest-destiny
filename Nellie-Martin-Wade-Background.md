@@ -1,7 +1,7 @@
 ---
 layout: page
 author: Sophie Goldman
-title: Who Was Nellie Martin Wade?
+title: Contextualizing Nellie Martin Wade
 ---
 
 ### Journeys and Journals
