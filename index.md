@@ -2,20 +2,16 @@
 layout: default
 ---
 
-<div class="posts">
-  {% for post in site.posts %}
-    <article class="post">
+# Welcome to the _Manifest Destiny_ project, created by Sophie Goldman and Hope Perry for HUM 331 / HIS 336 at Princeton University!
 
-      <header class="post-header">
-      <h2 class="post-title"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
-      <h4>By {{ post.author }} on {{ post.date | date: "%B %e, %Y" }}</h4>
-      </header>
+This project explores the 1853-54 journal of Thomas Adams, a civil engineer, alongside the 1906 journal of Nellie Martin Wade, a homemaker and educator. In the theme of Manifest Destiny, each of these authors journeyed west and captured their thoughts and observations in writing. Their manuscripts are housed in the [Western Americana Collection](https://library.princeton.edu/special-collections/divisions/princeton-collections-american-west) in the Princeton University Library and are now brought together through this project. From territories west of the Mississippi River to the mountains of Alaska, these journals reveal the mindset and motivations of their authors.
 
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
+All pages on this site can be accessed through the sidebar. We invite you to explore!
 
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-    </article>
-  {% endfor %}
-</div>
+**Learn** about [Thomas Adams](https://hum-331-princeton.github.io/manifest-destiny/Thomas-Adams-Background/) and [Nellie Martin Wade](https://hum-331-princeton.github.io/manifest-destiny/Nellie-Martin-Wade-Background/) in posts detailing their backgrounds.
+
+**Listen** to excerpts from the journals in Writing Out West, a podcast exploring the impact of gender on their authors’ experiences.
+
+**Read** about the content, creation, and purposes of the journals:
+- [Art in the Journals]({{site.baseurl}})
+- [Purpose of Journals]({{site.baseurl}})
