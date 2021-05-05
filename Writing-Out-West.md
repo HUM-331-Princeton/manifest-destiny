@@ -3,6 +3,7 @@ layout: page
 title: Writing Out West: A Podcast
 ---
 
+
 Using two journals from Firestone Library we explore the impact of gender on Manifest Destiny and westward emigration. 
 
 <iframe src="https://anchor.fm/hope-perry9/embed/episodes/WOW-Writing-Out-West-e10a677" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
@@ -12,3 +13,7 @@ This episode was written by Hope Perry and Sophie Goldman and produced by Hope P
 The journal of [Thomas Adams](https://dpul.princeton.edu/pudl0017/catalog/qr46r491g) and [Nellie Martin Wade](https://findingaids.princeton.edu/catalog/C0140_c65810-06143)
 
 _Some journal entries edited for length._
+
+
+<iframe src="https://anchor.fm/hope-perry9/embed/episodes/WOW-Writing-Out-West-e10a677" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
