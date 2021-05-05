@@ -14,3 +14,7 @@ This podcast features the journals of [Thomas Adams](https://dpul.princeton.edu/
 
 _Some journal entries edited for length._
 
+### Transcript
+ <iframe src="https://drive.google.com/file/d/1P92J-aU4tuncXBh88npKhEdt6x9i3D1z/view?usp=sharing" width="100%" height="500px">
+    </iframe>
+
