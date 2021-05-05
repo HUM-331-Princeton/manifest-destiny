@@ -1,15 +1,13 @@
 ---
 layout: page
+author: Hope Perry
 title: About
 permalink: /about/
 ---
 
-Some information about you!
+We wanted to create a space to present these journals in several ways so that they could be made accessible to anyone who wants to learn more about primary source
+documents of the period. By looking at the journals with a comparative lens, we have been able to gain further knowledge about the journals and their authors and present it in new and interesting ways. We've used several types of digital tools, as well as both audio and visual elements, to try and make the information as dynamic and accessible as possible. We hope that you have found it interesting and learned something new!
 
-### More Information
+Best,
+Hope and Sophie
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
