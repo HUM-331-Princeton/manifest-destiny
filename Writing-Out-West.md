@@ -15,3 +15,9 @@ _Some journal entries edited for length._
 ### Transcript
 <iframe src="https://drive.google.com/file/d/1P92J-aU4tuncXBh88npKhEdt6x9i3D1z/preview" width="640" height="480"></iframe>
 
+Here's the pages from Thomas's Journal:
+
+![October Journal](https://raw.githubusercontent.com/HUM-331-Princeton/manifest-destiny/main/_images/OctoberEntries.jpeg)
+
+![June Journal](https://raw.githubusercontent.com/HUM-331-Princeton/manifest-destiny/main/_images/JuneEntries.jpeg)
+
