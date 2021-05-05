@@ -21,7 +21,7 @@ Later in life, Adams was involved in brokering treaties between Indigenous group
 With all this in mind, I hope you enjoy learning about Thomas Adams and Nellie Martin Wade through this project!
 
 
-References
+### References
 
 “Stevens Pacific Railroad Survey.” Stevens Pacific Railroad Survey - Smithsonian National Museum of Natural History, [naturalhistory.si.edu/research/botany/about/historical-expeditions/stevens-pacific-railroad-survey](https://naturalhistory.si.edu/research/botany/about/historical-expeditions/stevens-pacific-railroad-survey)
 
