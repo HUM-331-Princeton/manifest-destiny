@@ -10,7 +10,7 @@ All pages on this site can be accessed through the sidebar. We invite you to exp
 
 **Learn** about [Thomas Adams](https://hum-331-princeton.github.io/manifest-destiny/Thomas-Adams-Background/) and [Nellie Martin Wade](https://hum-331-princeton.github.io/manifest-destiny/Nellie-Martin-Wade-Background/) in posts detailing their backgrounds.
 
-**Listen** to excerpts from the journals in Writing Out West, a podcast exploring the impact of gender on their authors’ experiences.
+**Listen** to excerpts from the journals in [Writing Out West](https://hum-331-princeton.github.io/manifest-destiny/Writing-Out-West/), a podcast exploring the impact of gender on the journals and their authors’ experiences.
 
 **Read** about the content, creation, and purposes of the journals:
 - [Art in the Journals]({{site.baseurl}})
