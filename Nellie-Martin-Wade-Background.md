@@ -1,6 +1,6 @@
 ---
 layout: page
-author: Sophie Goldman
+author1: Sophie Goldman
 title: Contextualizing Nellie Martin Wade's Journey
 ---
 
