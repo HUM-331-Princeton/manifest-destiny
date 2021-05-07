@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Who Was Thomas Adams?
-author: Hope Perry
+author1: Hope Perry
 ---
 
 A few fateful months ago I chose the enigmatically titled
