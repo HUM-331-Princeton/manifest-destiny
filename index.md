@@ -4,7 +4,7 @@ layout: default
 
 ## Welcome to the _Manifest Destiny_ project, created by Sophie Goldman and Hope Perry for HUM 331 / HIS 336 at Princeton University!
 
-<img  height = "400" src="https://www.nps.gov/common/uploads/cropped_image/primary/6A655CDD-EEFB-52DD-A0BEEC37D82D501C.jpg?width=1600&quality=90&mode=crop" class="centerImage">
+<img  height = "400" src="https://www.nps.gov/common/uploads/cropped_image/primary/6A655CDD-EEFB-52DD-A0BEEC37D82D501C.jpg?width=1600&quality=90&mode=crop" class="center-image">
 
 ######  Ross' Hole, Montana 
 
