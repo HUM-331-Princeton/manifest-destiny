@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Writing Out West - A Podcast
+author1: Sophie Goldman
+author2: Hope Perry
 ---
 Using two journals from Firestone Library we explore the impact of gender on Manifest Destiny and westward exploration. 
 
