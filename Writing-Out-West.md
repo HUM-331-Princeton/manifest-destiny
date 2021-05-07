@@ -24,7 +24,5 @@ Here's the pages from Thomas's journal:
 And here's the pages from Nellie's journal:
 
 <img src ="https://iiif-cloud.princeton.edu/iiif/2/8e%2F8f%2F38%2F8e8f38b899614ad181b83ee7e463fd0f%2Fintermediate_file/full/1000,1257/0/default.jpg" alt = "Chapter 9, Page 1" class = "left-image" height = "450px">
-<img src ="https://iiif-cloud.princeton.edu/iiif/2/c3%2F43%2F03%2Fc343037f764a47e387c220162951cfd6%2Fintermediate_file/full/1000,1290/0/default.jpg" alt = "Chapter 9, Page 1" class = "right-image" height = "450px">
-
-<iframe src="https://figgy.princeton.edu/uv.html#?manifest=https://figgy.princeton.edu/concern/scanned_resources/d622ff36-1c99-4991-81a6-4885e9f23107/manifest&c=0&m=0&s=0&cv=147&config=/viewer/config/d622ff36-1c99-4991-81a6-4885e9f23107.json&locales=en-GB:English (GB),cy-GB:Cymraeg,fr-FR:Français (FR),sv-SE:Svenska,xx-XX:English (GB) (xx-XX)&xywh=-2968,-1,11914,7521&r=0" width="560" height="420" allowfullscreen frameborder="0"></iframe>
-
+<img src ="https://iiif-cloud.princeton.edu/iiif/2/c3%2F43%2F03%2Fc343037f764a47e387c220162951cfd6%2Fintermediate_file/full/1000,1290/0/default.jpg" alt = "Chapter 9, Page 2" class = "right-image" height = "450px">
+<img src ="https://iiif-cloud.princeton.edu/iiif/2/f2%2Ff3%2Fd0%2Ff2f3d04c429e4b458674cd952e859a85%2Fintermediate_file/full/1000,1257/0/default.jpg" alt = "Chapter 9, Page 3" class = "left-image" height = "450px">
