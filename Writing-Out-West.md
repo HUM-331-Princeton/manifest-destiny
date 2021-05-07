@@ -25,4 +25,5 @@ And here's the pages from Nellie's journal:
 
 <img src ="https://iiif-cloud.princeton.edu/iiif/2/8e%2F8f%2F38%2F8e8f38b899614ad181b83ee7e463fd0f%2Fintermediate_file/full/1000,1257/0/default.jpg" alt = "Chapter 9, Page 1" class = "left-image" height = "450px">
 <img src ="https://iiif-cloud.princeton.edu/iiif/2/c3%2F43%2F03%2Fc343037f764a47e387c220162951cfd6%2Fintermediate_file/full/1000,1290/0/default.jpg" alt = "Chapter 9, Page 2" class = "right-image" height = "450px">
-<img src ="https://iiif-cloud.princeton.edu/iiif/2/f2%2Ff3%2Fd0%2Ff2f3d04c429e4b458674cd952e859a85%2Fintermediate_file/full/1000,1257/0/default.jpg" alt = "Chapter 9, Page 3" class = "left-image" height = "450px">
+
+<iframe src="https://drive.google.com/file/d/1PwENCqu7WaOhXgXhk0x-aqfJ9LYyWyn_/preview" width="640" height="480"></iframe>
