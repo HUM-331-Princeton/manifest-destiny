@@ -17,5 +17,5 @@ This project explores the 1853-54 journal of Thomas Adams, a civil engineer, alo
 **Listen** to excerpts from the journals in [Writing Out West](https://hum-331-princeton.github.io/manifest-destiny/Writing-Out-West/), a podcast exploring the impact of gender on the journals and their authors’ experiences.
 
 **Read** about the content, creation, and purposes of the journals:
-- [Art in the Journals]({{site.baseurl}})
-- [Purpose of Journals]({{site.baseurl}})
+- [Art in the Journals]({{site.baseurl}}/art-in-the-journals)
+- [Purpose of the Journals]({{site.baseurl}}/purpose-of-the-journals)
