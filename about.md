@@ -1,6 +1,5 @@
 ---
 layout: page
-author: Hope Perry
 title: About
 permalink: /about/
 ---
