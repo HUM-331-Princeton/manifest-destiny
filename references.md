@@ -55,7 +55,7 @@ SFU Digitized Collections. “British Columbia Postcards Collection.” Accessed
 
 Wade, Nellie Martin. “General Manuscripts Miscellaneous Collection (C0140) -- Wade, Nellie Martin, ‘Through Interior Alaska on Horseback and the Scenic Coast Route’ Manuscript.” Princeton University Library Finding Aids. Accessed May 10, 2021. [https://findingaids.princeton.edu/collections/C0140/c65810-06143](https://findingaids.princeton.edu/collections/C0140/c65810-06143).
 
-Wade, Nellie Martin. “Through Interior Alaska on Horseback and the Scenic Coast Route,” 1907. https://findingaids.princeton.edu/catalog/C0140_c65810-06143.
+Wade, Nellie Martin. “Through Interior Alaska on Horseback and the Scenic Coast Route,” 1907. <https://findingaids.princeton.edu/catalog/C0140_c65810-06143>.
 
 
 ### Acknowledgements
