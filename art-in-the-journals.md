@@ -94,13 +94,13 @@ Although there’s not really a definitive way to prove that the drawings were c
 
 ### References
 
-Bayers, Peter L. “Frederick Cook, Mountaineering in the Alaskan Wilderness, and the Regeneration of Progressive Era Masculinity.” Western American Literature 38, no. 2 (2003): 171–93. https://doi.org/10.1353/wal.2003.0032.
+Bayers, Peter L. “Frederick Cook, Mountaineering in the Alaskan Wilderness, and the Regeneration of Progressive Era Masculinity.” Western American Literature 38, no. 2 (2003): 171–93. <https://doi.org/10.1353/wal.2003.0032>.
 
-Cook, Frederick Albert. To the Top of the Continent;Discovery, Exploration and Adventure in Sub-Arctic Alaska. The First Ascent of Mt. McKinley, 1903-1906,. New York, 1908. http://hdl.handle.net/2027/njp.32101020795371.
+Cook, Frederick Albert. To the Top of the Continent;Discovery, Exploration and Adventure in Sub-Arctic Alaska. The First Ascent of Mt. McKinley, 1903-1906,. New York, 1908. <http://hdl.handle.net/2027/njp.32101020795371>.
 
-Ewers, John Canfield. Gustavus Sohon’s Portraits of Flathead and Pend d’Oreille Indians, 1854. Smithsonian Miscellaneous Collections.v. 110, No. 7. Washington: Smithsonian Institution, 1948. https://catalog.hathitrust.org/Record/001677793.
+Ewers, John Canfield. Gustavus Sohon’s Portraits of Flathead and Pend d’Oreille Indians, 1854. Smithsonian Miscellaneous Collections.v. 110, No. 7. Washington: Smithsonian Institution, 1948. <https://catalog.hathitrust.org/Record/001677793>.
 
 Martin, Naomi. "To Mt. McKinley On Horseback by Nellie Martin Wade." Alaska: The Magazine of Life on the Last Frontier, June 1972.
-Wade, Nellie Martin. “General Manuscripts Miscellaneous Collection (C0140) – Wade, Nellie Martin, ‘Through Interior Alaska on Horseback and the Scenic Coast Route’ Manuscript.” Princeton University Library Finding Aids. Accessed March 8, 2021. https://findingaids.princeton.edu/collections/C0140/c65810-06143. 
+Wade, Nellie Martin. “General Manuscripts Miscellaneous Collection (C0140) – Wade, Nellie Martin, ‘Through Interior Alaska on Horseback and the Scenic Coast Route’ Manuscript.” Princeton University Library Finding Aids. Accessed March 8, 2021. <https://findingaids.princeton.edu/collections/C0140/c65810-06143>. 
 
-TEACHER AND STUDENT READING BIOGRAPHY OF GUSTAV SOHON. https://www.washingtonhistory.org/wp-content/uploads/2020/04/Sohon-biography.pdf
+TEACHER AND STUDENT READING BIOGRAPHY OF GUSTAV SOHON. <https://www.washingtonhistory.org/wp-content/uploads/2020/04/Sohon-biography.pdf>
