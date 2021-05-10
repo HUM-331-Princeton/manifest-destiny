@@ -11,7 +11,7 @@ title: References
 
 Alaska’s Digital Archives. Accessed March 8, 2021. [https://vilda.alaska.edu/digital/collection/cdmg21/id/2631/rec/1](https://vilda.alaska.edu/digital/collection/cdmg21/id/2631/rec/1).
 
-“Barrill to Meet Cook at Lecture.” The Spokesman-Review. October 28, 1909. 
+“Barrill to Meet Cook at Lecture.” _The Spokesman-Review_. October 28, 1909. 
 
 Bayers, Peter L. “Frederick Cook, Mountaineering in the Alaskan Wilderness, and the Regeneration of Progressive Era Masculinity.” Western American Literature 38, no. 2 (2003): 171–93. <https://doi.org/10.1353/wal.2003.0032>.
 
@@ -27,15 +27,15 @@ Jonaitis, Aldona. _Discovering Totem Poles: A Traveler's Guide_. Seattle; London
 
 Luray, Elyse. “EPISODE 9,2004: GOLD SHIP, SOUTH EAST ALASKA.,” 2004.[http://www-tc.pbs.org/opb/historydetectives/static/media/transcripts/2011-05-22/209\_goldship.pdf](http://www-tc.pbs.org/opb/historydetectives/static/media/transcripts/2011-05-22/209_goldship.pdf).
 
-Martin, Naomi. "To Mt. McKinley On Horseback by Nellie Martin Wade." Alaska: The Magazine of Life on the Last Frontier, June 1972.
+Martin, Naomi. "To Mt. McKinley On Horseback by Nellie Martin Wade." _Alaska: The Magazine of Life on the Last Frontier_, June 1972.
 
 Mayer, Melanie J. _Klondike Women: True Tales of the 1897-98 Gold Rush_. Athens, Ohio:, 1989. [http://hdl.handle.net/2027/mdp.39015015496634](http://hdl.handle.net/2027/mdp.39015015496634).
 
 Merritt, Steven. “Researchers Identify Famous Gold Rush Steamer.” _Alaska_. Anchorage: MCC Magazines, LLC d/b/a Alaska Magazine, February 2005. 215849385. ProQuest Central.
 
-McClure, Rosemary. “Bloomingtonite Tells of ’06 Alaska Trip.” San Bernardino Sun. June 28, 1972.
+McClure, Rosemary. “Bloomingtonite Tells of ’06 Alaska Trip.” _San Bernardino Sun_. June 28, 1972.
 
-“Mount McKinley of Easy Ascent.” Enterprise News-Record. November 3, 1909.
+“Mount McKinley of Easy Ascent.” _Enterprise News-Record_. November 3, 1909.
 
 National Park Service. “What Was the Klondike Gold Rush?,” Accessed May 10, 2021. [https://www.nps.gov/klgo/learn/goldrush.htm](https://www.nps.gov/klgo/learn/goldrush.htm).
 
