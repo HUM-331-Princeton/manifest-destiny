@@ -13,7 +13,7 @@ you've got some background information.
 Thomas Adams was a civil engineer, and at just 23 he was a part of the [Stevens Pacific Railroad Survey](https://naturalhistory.si.edu/research/botany/about/historical-expeditions/stevens-pacific-railroad-survey). Running for two years, from 1853-1855, the Survey was one of 6 expeditions Congress funded that same year to try to find the best railroad route from the Pacific Ocean to the Mississippi River. The Stevens Survey went
 (North by) Northwest, through North Dakota, Wyoming, Idaho, and Montana. The particular journal we're using for the project actually starts off in Washington, DC, with the real travel beginning to be documented in Minnesota.
 
-![Journal Page 1](https://iiif-cloud.princeton.edu/iiif/2/58%2F98%2F0f%2F58980fd66cdc4117ad5f49f3dc1060ff%2Fintermediate_file/full/1000,1494/0/default.jpg){: width="500px".center-image}
+![Journal Page 1](https://iiif-cloud.princeton.edu/iiif/2/58%2F98%2F0f%2F58980fd66cdc4117ad5f49f3dc1060ff%2Fintermediate_file/full/1000,1494/0/default.jpg){: height="300px".center-image}
 
 On the trip, Adams was designated as a meteorologist and topographer, and the
 language of his journal reflects this. He tends to write fairly short and informative entries, occasionally interjecting his frustration with the monotony of the food or the annoyances of travel; but he keeps it pretty impersonal. There are many sketches in his journals (but they bear an uncanny resemblance to [some of those done by Gustavus Sohon](https://babel.hathitrust.org/cgi/pt?id=uiug.30112106670174&view=1up&seq=5), who was also part of the Survey). He also documented the languages of the Indigenous peoples he encountered, with a small translation guide included in the back of the journal.  
