@@ -28,7 +28,7 @@ Adams, Thomas. “Journal.” Digital PUL, 1853-1854. Accessed May 9, 2021.[http
 
 Adams, Thomas. "Volume II." Digital PUL 1853-1854. Accessed May 9, 2021.[https://dpul.princeton.edu/pudl0017/catalog/vh53x083j](https://dpul.princeton.edu/pudl0017/catalog/vh53x083j).
 
-“Cultural History-Brief History of the People.” Accessed May 10, 2021. http://www.flatheadwatershed.org/cultural_history/pend_salish.shtml.
+“Cultural History-Brief History of the People.” Accessed May 10, 2021. <http://www.flatheadwatershed.org/cultural_history/pend_salish.shtml>.
 
 “Stevens Pacific Railroad Survey.” Stevens Pacific Railroad Survey - Smithsonian National Museum of Natural History, [naturalhistory.si.edu/research/botany/about/historical-expeditions/stevens-pacific-railroad-survey](https://naturalhistory.si.edu/research/botany/about/historical-expeditions/stevens-pacific-railroad-survey)
 
