@@ -15,7 +15,7 @@ Alaska’s Digital Archives. Accessed May 10, 2021. [https://vilda.alaska.edu/di
 
 Bayers, Peter L. “Frederick Cook, Mountaineering in the Alaskan Wilderness, and the Regeneration of Progressive Era Masculinity.” Western American Literature 38, no. 2 (2003): 171–93. <https://doi.org/10.1353/wal.2003.0032>.
 
-Central Council Tlingit & Haida Indian Tribes of Alaska. “Our History,” n.d. [http://www.ccthita.org/about/history/index.html](http://www.ccthita.org/about/history/index.html).
+Central Council Tlingit & Haida Indian Tribes of Alaska. “Our History,” Accessed May 10, 2021. [http://www.ccthita.org/about/history/index.html](http://www.ccthita.org/about/history/index.html).
 
 Cook, Frederick Albert. _To the Top of the Continent; Discovery, Exploration and Adventure in Sub-Arctic Alaska. The First Ascent of Mt. McKinley, 1903-1906_. New York, 1908. <http://hdl.handle.net/2027/njp.32101020795371>.
 
