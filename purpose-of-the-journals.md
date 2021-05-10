@@ -35,7 +35,7 @@ Thomas Adams’ journal, on the other hand, is much more documentary, and he foc
 
 “Barrill to Meet Cook at Lecture.” The Spokesman-Review. October 28, 1909. 
 
-Cook, Frederick Albert. To the Top of the Continent;Discovery, Exploration and Adventure in Sub-Arctic Alaska. The First Ascent of Mt. McKinley, 1903-1906,. New York, 1908. <http://hdl.handle.net/2027/njp.32101020795371>.
+Cook, Frederick Albert. _To the Top of the Continent; Discovery, Exploration and Adventure in Sub-Arctic Alaska. The First Ascent of Mt. McKinley, 1903-1906_. New York, 1908. <http://hdl.handle.net/2027/njp.32101020795371>.
 
 Frederick A Cook - A Digital Exhibition. “Controversy - Frederick A Cook.” Accessed May 9, 2021. <https://library.osu.edu/site/frederickcook/controversy/>.
 
