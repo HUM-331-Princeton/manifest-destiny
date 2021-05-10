@@ -15,10 +15,10 @@ Nellie Martin Wade included a poem about Denali (referred to by Wade as Mount Mc
 
 > Having ever been a lover of Nature in all her forms and moods from the tiniest wild flowers and the most delicate ferns to her great forests, her mighty rivers, and her wondrous mountains, no sight ever impressed me more than this noble lofty peak. I could not refrain from writing these lines as a tribute to her serene glory fully, realizing that no pen has power to describe, nor, brush to paint, any thing that can justly describe such magnificent grandeur.
 
-	I gaze in awe and silent admiration,
-	McKinley, Grand old Mount, at you today.
-	You rear your head, majestic, towering Heavenward
-	As you’ve done for countless ages passed away.
+>> I gaze in awe and silent admiration,
+   McKinley, Grand old Mount, at you today.
+   You rear your head, majestic, towering Heavenward
+   As you’ve done for countless ages passed away.
 
 	O mighty monarch, when I first beheld you,
 	Your wondrous form uplifted to the sky,
