@@ -45,7 +45,7 @@ SFU Digitized Collections. “British Columbia Postcards Collection.” Accessed
 
 "TEACHER AND STUDENT READING BIOGRAPHY OF GUSTAV SOHON." [https://www.washingtonhistory.org/wp-content/uploads/2020/04/Sohon-biography.pdf](https://www.washingtonhistory.org/wp-content/uploads/2020/04/Sohon-biography.pdf)
 
-“Thomas Adams Papers, 1852-1859 - Finding Aids.” Princeton University, The Trustees of Princeton University, <findingaids.princeton.edu/catalog/C1452#description>.
+“Thomas Adams Papers, 1852-1859 - Finding Aids.” Princeton University, The Trustees of Princeton University, [findingaids.princeton.edu/catalog/C1452#description](findingaids.princeton.edu/catalog/C1452#description).
 
 “University of Washington Libraries Digital Collections.” Accessed March 8, 2021. [https://content.lib.washington.edu/](https://content.lib.washington.edu/).
 
