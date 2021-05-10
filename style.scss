@@ -229,14 +229,14 @@ img {
   color: $darkGray;
   cursor: pointer;
   font-family: $georgia;
-  font-size: 28px;
+  font-size: 36px;
   letter-spacing: 1px;
 }
 
 .site-description {
   margin: -5px 0 0 0;
-  color: $gray;
-  font-size: 16px;
+  color: $darkGray;
+  font-size: 22px;
 
   @include mobile {
     margin: 3px 0;
