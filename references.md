@@ -19,6 +19,8 @@ Ewers, John Canfield. Gustavus Sohon’s Portraits of Flathead and Pend d’Orei
 
 Frederick A Cook - A Digital Exhibition. “Controversy - Frederick A Cook.” Accessed May 9, 2021. <https://library.osu.edu/site/frederickcook/controversy/>.
 
+“General Manuscripts Miscellaneous Collection (C0140) -- Wade, Nellie Martin, ‘Through Interior Alaska on Horseback and the Scenic Coast Route’ Manuscript.” Princeton University Library Finding Aids. Accessed May 10, 2021. [https://findingaids.princeton.edu/collections/C0140/c65810-06143](https://findingaids.princeton.edu/collections/C0140/c65810-06143).
+
 Jonaitis, Aldona. _Discovering Totem Poles: A Traveler's Guide_. Seattle; London: University of Washington Press, 2012. Accessed May 10, 2021. [http://www.jstor.org/stable/j.ctvcwn4sn](http://www.jstor.org/stable/j.ctvcwn4sn).
 
 Luray, Elyse. “EPISODE 9,2004: GOLD SHIP, SOUTH EAST ALASKA.,” 2004.[http://www-tc.pbs.org/opb/historydetectives/static/media/transcripts/2011-05-22/209\_goldship.pdf](http://www-tc.pbs.org/opb/historydetectives/static/media/transcripts/2011-05-22/209_goldship.pdf).
@@ -48,8 +50,6 @@ SFU Digitized Collections. “British Columbia Postcards Collection.” Accessed
 “Thomas Adams Papers, 1852-1859 - Finding Aids.” Princeton University, The Trustees of Princeton University, [findingaids.princeton.edu/catalog/C1452#description](findingaids.princeton.edu/catalog/C1452#description).
 
 “University of Washington Libraries Digital Collections.” Accessed March 8, 2021. [https://content.lib.washington.edu/](https://content.lib.washington.edu/).
-
-Wade, Nellie Martin. “General Manuscripts Miscellaneous Collection (C0140) -- Wade, Nellie Martin, ‘Through Interior Alaska on Horseback and the Scenic Coast Route’ Manuscript.” Princeton University Library Finding Aids. Accessed May 10, 2021. [https://findingaids.princeton.edu/collections/C0140/c65810-06143](https://findingaids.princeton.edu/collections/C0140/c65810-06143).
 
 Wade, Nellie Martin. “Through Interior Alaska on Horseback and the Scenic Coast Route,” 1907. https://findingaids.princeton.edu/catalog/C0140_c65810-06143.
 
