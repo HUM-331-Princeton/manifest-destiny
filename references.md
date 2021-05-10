@@ -19,7 +19,7 @@ Central Council Tlingit & Haida Indian Tribes of Alaska. “Our History,” Acce
 
 Cook, Frederick Albert. _To the Top of the Continent; Discovery, Exploration and Adventure in Sub-Arctic Alaska. The First Ascent of Mt. McKinley, 1903-1906_. New York, 1908. <http://hdl.handle.net/2027/njp.32101020795371>.
 
-Cultural History-Brief History of the People.” Accessed May 10, 2021. http://www.flatheadwatershed.org/cultural_history/pend_salish.shtml.
+Cultural History-Brief History of the People.” Accessed May 10, 2021. <http://www.flatheadwatershed.org/cultural_history/pend_salish.shtml>.
 
 Ewers, John Canfield. _Gustavus Sohon’s Portraits of Flathead and Pend d’Oreille Indians, 1854_. Smithsonian Miscellaneous Collections.v. 110, No. 7. Washington: Smithsonian Institution, 1948. <https://catalog.hathitrust.org/Record/001677793>.
 
