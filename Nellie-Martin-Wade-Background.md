@@ -52,7 +52,7 @@ Alaska’s Digital Archives. Accessed March 8, 2021. [https://vilda.alaska.edu/d
 
 Central Council Tlingit & Haida Indian Tribes of Alaska. “Our History,” n.d. [http://www.ccthita.org/about/history/index.html](http://www.ccthita.org/about/history/index.html).
 
-Jonaitis, Aldona. Discovering Totem Poles. University of Washington Press, 2012. [http://www.jstor.org.ezproxy.princeton.edu/stable/j.ctvcwn4sn](http://www.jstor.org.ezproxy.princeton.edu/stable/j.ctvcwn4sn).
+Jonaitis, Aldona. Discovering Totem Poles: A Traveler's Guide. Seattle; London: University of Washington Press, 2012. Accessed May 10, 2021. <http://www.jstor.org/stable/j.ctvcwn4sn>.
 
 Luray, Elyse. “EPISODE 9,2004: GOLD SHIP, SOUTH EAST ALASKA.,” 2004.[http://www-tc.pbs.org/opb/historydetectives/static/media/transcripts/2011-05-22/209\_goldship.pdf](http://www-tc.pbs.org/opb/historydetectives/static/media/transcripts/2011-05-22/209_goldship.pdf).
 
