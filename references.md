@@ -5,9 +5,9 @@ title: References
 
 “A Brief Guide to the Fireside Poets.” Academy of American Poets. Accessed May 9, 2021. [https://poets.org/text/brief-guide-fireside-poets](https://poets.org/text/brief-guide-fireside-poets).
 
- Adams, Thomas. “Journal.” Digital PUL, 1853-1854. [https://dpul.princeton.edu/pudl0017/catalog/qr46r491g](https://dpul.princeton.edu/pudl0017/catalog/qr46r491g).
+ Adams, Thomas. “Journal.” Digital PUL, 1853-1854. Accessed May 9, 2021.[https://dpul.princeton.edu/pudl0017/catalog/qr46r491g](https://dpul.princeton.edu/pudl0017/catalog/qr46r491g).
  
- Adams, Thomas. "Volume II." Digital PUL 1853-1854. [https://dpul.princeton.edu/pudl0017/catalog/vh53x083j](https://dpul.princeton.edu/pudl0017/catalog/vh53x083j).
+ Adams, Thomas. "Volume II." Digital PUL 1853-1854. Accessed May 9, 2021.[https://dpul.princeton.edu/pudl0017/catalog/vh53x083j](https://dpul.princeton.edu/pudl0017/catalog/vh53x083j).
 
 Alaska’s Digital Archives. Accessed March 8, 2021. [https://vilda.alaska.edu/digital/collection/cdmg21/id/2631/rec/1](https://vilda.alaska.edu/digital/collection/cdmg21/id/2631/rec/1).
 
