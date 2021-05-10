@@ -40,7 +40,7 @@ I centered my project around expressing Wade's personal experience and included 
 
 I drew from the digital collections of the University of Washington Libraries, the Alaska State Library - Historical Collections, and the University of Alaska Fairbanks for many images. I also referenced National Park Service webpages, the website of the Central Council of the Tlingit and Haida Indian Tribes of Alaska, recent articles, and scholarly sources including Melanie Mayer's book "Klondike Women : True Tales of the 1897-98 Gold Rush." A full list of references can be found below.
 
-I chose this variety of sources to expand the understanding of Wade's experience past her singular perspective. Some sources spoke to the reasons that might have encouraged Wade to travel, such as news of the Klondike Gold Rush, while others revealed the wider range of experiences of women in 1890s Alaska.
+I chose this variety of sources to expand the understanding of Wade's experience past her singular perspective. Some sources spoke to the reasons that might have encouraged Wade to travel, such as news of the Klondike [Gold Rush](https://www.youtube.com/watch?v=Pz-f9mM3Ms8 "gold rush"), while others revealed the wider range of experiences of women in 1890s Alaska.
 
 ### The Journey Continues
 
