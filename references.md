@@ -19,15 +19,15 @@ Ewers, John Canfield. Gustavus Sohon’s Portraits of Flathead and Pend d’Orei
 
 Frederick A Cook - A Digital Exhibition. “Controversy - Frederick A Cook.” Accessed May 9, 2021. <https://library.osu.edu/site/frederickcook/controversy/>.
 
-Jonaitis, Aldona. Discovering Totem Poles: A Traveler's Guide. Seattle; London: University of Washington Press, 2012. Accessed May 10, 2021. [http://www.jstor.org/stable/j.ctvcwn4sn](http://www.jstor.org/stable/j.ctvcwn4sn).
+Jonaitis, Aldona. _Discovering Totem Poles: A Traveler's Guide_. Seattle; London: University of Washington Press, 2012. Accessed May 10, 2021. [http://www.jstor.org/stable/j.ctvcwn4sn](http://www.jstor.org/stable/j.ctvcwn4sn).
 
 Luray, Elyse. “EPISODE 9,2004: GOLD SHIP, SOUTH EAST ALASKA.,” 2004.[http://www-tc.pbs.org/opb/historydetectives/static/media/transcripts/2011-05-22/209\_goldship.pdf](http://www-tc.pbs.org/opb/historydetectives/static/media/transcripts/2011-05-22/209_goldship.pdf).
 
 Martin, Naomi. "To Mt. McKinley On Horseback by Nellie Martin Wade." Alaska: The Magazine of Life on the Last Frontier, June 1972.
 
-Mayer, Melanie J. Klondike Women: True Tales of the 1897-98 Gold Rush. Athens, Ohio:, 1989. [http://hdl.handle.net/2027/mdp.39015015496634](http://hdl.handle.net/2027/mdp.39015015496634).
+Mayer, Melanie J. _Klondike Women: True Tales of the 1897-98 Gold Rush_. Athens, Ohio:, 1989. [http://hdl.handle.net/2027/mdp.39015015496634](http://hdl.handle.net/2027/mdp.39015015496634).
 
-Merritt, Steven. “Researchers Identify Famous Gold Rush Steamer.” Alaska. Anchorage: MCC Magazines, LLC d/b/a Alaska Magazine, February 2005. 215849385. ProQuest Central.
+Merritt, Steven. “Researchers Identify Famous Gold Rush Steamer.” _Alaska_. Anchorage: MCC Magazines, LLC d/b/a Alaska Magazine, February 2005. 215849385. ProQuest Central.
 
 McClure, Rosemary. “Bloomingtonite Tells of ’06 Alaska Trip.” San Bernardino Sun. June 28, 1972.
 
