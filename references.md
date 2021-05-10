@@ -17,9 +17,9 @@ Bayers, Peter L. “Frederick Cook, Mountaineering in the Alaskan Wilderness, an
 
 Central Council Tlingit & Haida Indian Tribes of Alaska. “Our History,” n.d. [http://www.ccthita.org/about/history/index.html](http://www.ccthita.org/about/history/index.html).
 
-Cook, Frederick Albert. To the Top of the Continent;Discovery, Exploration and Adventure in Sub-Arctic Alaska. The First Ascent of Mt. McKinley, 1903-1906,. New York, 1908. <http://hdl.handle.net/2027/njp.32101020795371>.
+Cook, Frederick Albert. _To the Top of the Continent; Discovery, Exploration and Adventure in Sub-Arctic Alaska. The First Ascent of Mt. McKinley, 1903-1906_. New York, 1908. <http://hdl.handle.net/2027/njp.32101020795371>.
 
-Ewers, John Canfield. Gustavus Sohon’s Portraits of Flathead and Pend d’Oreille Indians, 1854. Smithsonian Miscellaneous Collections.v. 110, No. 7. Washington: Smithsonian Institution, 1948. <https://catalog.hathitrust.org/Record/001677793>.
+Ewers, John Canfield. _Gustavus Sohon’s Portraits of Flathead and Pend d’Oreille Indians, 1854_. Smithsonian Miscellaneous Collections.v. 110, No. 7. Washington: Smithsonian Institution, 1948. <https://catalog.hathitrust.org/Record/001677793>.
 
 Frederick A Cook - A Digital Exhibition. “Controversy - Frederick A Cook.” Accessed May 9, 2021. <https://library.osu.edu/site/frederickcook/controversy/>.
 
@@ -37,13 +37,13 @@ McClure, Rosemary. “Bloomingtonite Tells of ’06 Alaska Trip.” San Bernardi
 
 “Mount McKinley of Easy Ascent.” Enterprise News-Record. November 3, 1909.
 
-National Park Service. “What Was the Klondike Gold Rush?,” n.d. [https://www.nps.gov/klgo/learn/goldrush.htm](https://www.nps.gov/klgo/learn/goldrush.htm).
+National Park Service. “What Was the Klondike Gold Rush?,” Accessed May 10, 2021. [https://www.nps.gov/klgo/learn/goldrush.htm](https://www.nps.gov/klgo/learn/goldrush.htm).
 
-National Park Service. “Wildlife,” n.d. [https://www.nps.gov/dena/learn/nature/wildlife.htm](https://www.nps.gov/dena/learn/nature/wildlife.htm).
+National Park Service. “Wildlife,” Accessed May 10, 2021. [https://www.nps.gov/dena/learn/nature/wildlife.htm](https://www.nps.gov/dena/learn/nature/wildlife.htm).
 
-National Park Service. "Women Who Went to the Klondike," n.d. [https://www.nps.gov/articles/klgo-klondike-women.htm](https://www.nps.gov/articles/klgo-klondike-women.htm)
+National Park Service. "Women Who Went to the Klondike," Accessed May 10, 2021. [https://www.nps.gov/articles/klgo-klondike-women.htm](https://www.nps.gov/articles/klgo-klondike-women.htm)
 
-SFU Digitized Collections. “British Columbia Postcards Collection.” Accessed March 8, 2021. [https://digital.lib.sfu.ca/islandora/object/bcp:collection](https://digital.lib.sfu.ca/islandora/object/bcp:collection).
+SFU Digitized Collections. “British Columbia Postcards Collection.” Accessed May 10, 2021. [https://digital.lib.sfu.ca/islandora/object/bcp:collection](https://digital.lib.sfu.ca/islandora/object/bcp:collection).
 
 “Stevens Pacific Railroad Survey.” Stevens Pacific Railroad Survey - Smithsonian National Museum of Natural History, [naturalhistory.si.edu/research/botany/about/historical-expeditions/stevens-pacific-railroad-survey](naturalhistory.si.edu/research/botany/about/historical-expeditions/stevens-pacific-railroad-survey)
 
@@ -51,7 +51,7 @@ SFU Digitized Collections. “British Columbia Postcards Collection.” Accessed
 
 “Thomas Adams Papers, 1852-1859 - Finding Aids.” Princeton University, The Trustees of Princeton University, [findingaids.princeton.edu/catalog/C1452#description](findingaids.princeton.edu/catalog/C1452#description).
 
-“University of Washington Libraries Digital Collections.” Accessed March 8, 2021. [https://content.lib.washington.edu/](https://content.lib.washington.edu/).
+“University of Washington Libraries Digital Collections.” Accessed May 10, 2021. [https://content.lib.washington.edu/](https://content.lib.washington.edu/).
 
 Wade, Nellie Martin. “General Manuscripts Miscellaneous Collection (C0140) -- Wade, Nellie Martin, ‘Through Interior Alaska on Horseback and the Scenic Coast Route’ Manuscript.” Princeton University Library Finding Aids. Accessed May 10, 2021. [https://findingaids.princeton.edu/collections/C0140/c65810-06143](https://findingaids.princeton.edu/collections/C0140/c65810-06143).
 
