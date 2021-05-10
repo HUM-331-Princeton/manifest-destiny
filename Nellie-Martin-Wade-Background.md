@@ -10,7 +10,7 @@ title: Contextualizing Nellie Martin Wade's Journey
 
 > This unknown region had long attracted me. With a desire to know more about the country extending from the McKinley range of Mountains to the Southern Coast, we determined to explore the valley of the Great Shushitna and its principal tributaries, which drain thousands of square miles in the very heart of Alaska. - Nellie Martin Wade, "Through Interior Alaska on Horseback and The Scenic Coast Route"
 
-Nellie Martin Wade's [manuscript](https://findingaids.princeton.edu/collections/C0140/c65810-06143) includes a highly organized narrative of Wade's trip to Alaska in 1906, whose goals and motivations are described in the above quote. Wade provides detailed descriptions of the locations she visits while traveling to the Alaskan Interior. This post aims to contextualize her journey and provide a visual, geographic representation of the earliest sections of the journal using the StoryMap platform. In addition to mapping her journey, the StoryMap discusses external factors that might have led Wade to visit Alaska, as well as who else came to Alaska before Wade.
+Nellie Martin Wade's [manuscript](https://findingaids.princeton.edu/collections/C0140/c65810-06143) includes a highly organized narrative of Wade's trip to Alaska in 1906, whose goals and motivations are described in the above quote. Wade provides detailed descriptions of the locations she visits while traveling to the Alaskan Interior. This page aims to contextualize her journey and provide a visual, geographic representation of the earliest sections of the journal using the StoryMap platform. In addition to mapping her journey, the StoryMap discusses external factors that might have led Wade to visit Alaska, as well as who else came to Alaska before Wade.
 
 <!--more-->
 
@@ -20,7 +20,7 @@ Nellie Martin Wade's [manuscript](https://findingaids.princeton.edu/collections/
 ### Mapping the Journey
  When reading the description of each location in writing, it can be difficult to get a sense of the time and distance traveled. When looking at this journey on a map, viewers can better picture the experience of sailing for hundreds of miles, as the distance between locations is clearly represented. Despite the detailed location data shown on the StoryMap, only locations mentioned in chapters 2 and 3 of Wade's manuscript are represented. Part of my goal in documenting these points is to emphasize the arduousness of Wade's journey.
 
-Though Wade's writing dates to 1906, the content in this project ranges from the 1890s to the 21st century. I chose to highlight the following locations, with the intention of using each location to illuminate a different aspect of the manuscript:
+Though Wade's writing dates to 1906, the content on this page ranges from the 1890s to the 21st century. I chose to highlight the following locations, with the intention of using each location to illuminate a different aspect of the manuscript:
 - Seattle, WA
 - Port Townsend, WA and Victoria, BC
 - Seymour Narrows, BC
@@ -34,11 +34,11 @@ In each location, I examine Wade's comments and descriptions. Though it is diffi
 
 To create an engaging visual narrative, I included connections between time periods, tying direct quotes from Wade to more recent aspects of Alaskan history, such as Alaska's statehood and the experience of the Tlingit people. I also included a video within the "Seymour Narrows" location to more clearly represent Wade's dynamic journey of traveling by steamer. Though Wade includes elegant descriptions, the addition of visual resources amplifies her words and provides the viewer with a greater ability to appreciate Alaska in the ways Wade intended.
 
-### Project Narrative and Sources
+### Narrative and Sources
 
-I centered my project around expressing Wade's personal experience and included direct quotes from her manuscript throughout the StoryMap to allow for her "narration." I supplemented these quotes with contemporaneous images and documents. I hoped to include some media that could have directly influenced Wade personally, such as the 1897 newspaper article on the Klondike Gold Rush. Alongside this, I used secondary sources on Alaskan history and the experience of women in Alaska, as well as more recent accounts and images of Alaskan life.
+I centered the StoryMap around expressing Wade's personal experience and included direct quotes from her manuscript to allow for her "narration." I supplemented these quotes with contemporaneous images and documents. I hoped to include some media that could have directly influenced Wade personally, such as the 1897 newspaper article on the Klondike Gold Rush. Alongside this, I used secondary sources on Alaskan history and the experience of women in Alaska, as well as more recent accounts and images of Alaskan life.
 
-I drew from the digital collections of the University of Washington Libraries, the Alaska State Library - Historical Collections, and the University of Alaska Fairbanks for many images. I also referenced National Park Service webpages, the website of the Central Council of the Tlingit and Haida Indian Tribes of Alaska, recent articles, and scholarly sources including Melanie Mayer's book "Klondike Women : True Tales of the 1897-98 Gold Rush." A full list of references can be found below.
+I drew from the digital collections of the University of Washington Libraries, the Alaska State Library - Historical Collections, and the University of Alaska Fairbanks for many images. I also referenced National Park Service webpages, the website of the Central Council of the Tlingit and Haida Indian Tribes of Alaska, recent articles, and scholarly sources including Melanie Mayer's book _Klondike Women : True Tales of the 1897-98 Gold Rush_. A full list of references can be found below.
 
 I chose this variety of sources to expand the understanding of Wade's experience past her singular perspective. Some sources spoke to the reasons that might have encouraged Wade to travel, such as news of the Klondike [Gold Rush](https://www.youtube.com/watch?v=Pz-f9mM3Ms8 "gold rush"), while others revealed the wider range of experiences of women in 1890s Alaska.
 
