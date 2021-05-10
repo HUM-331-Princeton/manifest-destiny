@@ -41,9 +41,9 @@ National Park Service. "Women Who Went to the Klondike," n.d. [https://www.nps.g
 
 SFU Digitized Collections. “British Columbia Postcards Collection.” Accessed March 8, 2021. [https://digital.lib.sfu.ca/islandora/object/bcp:collection](https://digital.lib.sfu.ca/islandora/object/bcp:collection).
 
-“Stevens Pacific Railroad Survey.” Stevens Pacific Railroad Survey - Smithsonian National Museum of Natural History, <naturalhistory.si.edu/research/botany/about/historical-expeditions/stevens-pacific-railroad-survey>
+“Stevens Pacific Railroad Survey.” Stevens Pacific Railroad Survey - Smithsonian National Museum of Natural History, [naturalhistory.si.edu/research/botany/about/historical-expeditions/stevens-pacific-railroad-survey](naturalhistory.si.edu/research/botany/about/historical-expeditions/stevens-pacific-railroad-survey)
 
-"TEACHER AND STUDENT READING BIOGRAPHY OF GUSTAV SOHON." <https://www.washingtonhistory.org/wp-content/uploads/2020/04/Sohon-biography.pdf>
+"TEACHER AND STUDENT READING BIOGRAPHY OF GUSTAV SOHON." [https://www.washingtonhistory.org/wp-content/uploads/2020/04/Sohon-biography.pdf](https://www.washingtonhistory.org/wp-content/uploads/2020/04/Sohon-biography.pdf)
 
 “Thomas Adams Papers, 1852-1859 - Finding Aids.” Princeton University, The Trustees of Princeton University, <findingaids.princeton.edu/catalog/C1452#description>.
 
