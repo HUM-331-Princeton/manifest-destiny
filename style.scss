@@ -231,12 +231,16 @@ img {
   font-family: $georgia;
   font-size: 36px;
   letter-spacing: 1px;
+  text-align: center;
+
 }
 
 .site-description {
   margin: -5px 0 0 0;
   color: $darkGray;
   font-size: 22px;
+  text-align: center;
+
 
   @include mobile {
     margin: 3px 0;
