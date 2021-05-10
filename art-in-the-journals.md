@@ -71,12 +71,12 @@ Alongside her poem, which provides textual imagery for her journey, Wade include
 While researching the journey of the journal itself from Wade’s trip to the present day, I discovered an article from 1972 that contained excerpts from the journal and original photographs credited to Nellie Martin Wade. Though it is possible that these photos were not the ones intended for publication, they provide a clear representation of the towns, men, and nature encountered in Alaska. 
 
 ![Nellie Martin Wade with men](https://github.com/HUM-331-Princeton/manifest-destiny/blob/main/_images/NMW-1972-ArticleImg3.png?raw=true)
-![Tyonek, Alaska](https://github.com/HUM-331-Princeton/manifest-destiny/blob/main/_images/NMW-1972-ArticleTyonek.png?raw=true)
+![Tyonek, Alaska](https://github.com/HUM-331-Princeton/manifest-destiny/blob/main/_images/NMW-1972-ArticleImgTyonek.png?raw=true)
 ![Horse in Alaska](https://github.com/HUM-331-Princeton/manifest-destiny/blob/main/_images/NMW-1972-ArticleImg1.png?raw=true)
 
 The article also includes a hand-drawn map by Waitman Wade, Nellie’s husband, of the Susitna Valley. While the labels are hard to read, the map signifies To fully understand the role of hand-drawn work in these manuscripts, we now return to Thomas Adams’ journal.
 
-![Map by Waitman Wade](https://github.com/HUM-331-Princeton/manifest-destiny/blob/main/_images/NMW-1972-ArticleMap.png?raw=true)
+![Map by Waitman Wade](https://github.com/HUM-331-Princeton/manifest-destiny/blob/main/_images/NMW-1972-ArticleImgMap.png?raw=true)
 
 ### Drawings
 
