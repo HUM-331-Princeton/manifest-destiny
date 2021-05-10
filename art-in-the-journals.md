@@ -97,6 +97,10 @@ Although there’s not really a definitive way to prove that the drawings were c
 
 “A Brief Guide to the Fireside Poets.” Academy of American Poets. Accessed May 9, 2021. <https://poets.org/text/brief-guide-fireside-poets>.
 
+ Adams, Thomas. “Journal.” Digital PUL, 1853-1854. Accessed May 9, 2021.[https://dpul.princeton.edu/pudl0017/catalog/qr46r491g](https://dpul.princeton.edu/pudl0017/catalog/qr46r491g).
+ 
+ Adams, Thomas. "Volume II." Digital PUL 1853-1854. Accessed May 9, 2021.[https://dpul.princeton.edu/pudl0017/catalog/vh53x083j](https://dpul.princeton.edu/pudl0017/catalog/vh53x083j).
+
 Bayers, Peter L. “Frederick Cook, Mountaineering in the Alaskan Wilderness, and the Regeneration of Progressive Era Masculinity.” Western American Literature 38, no. 2 (2003): 171–93. <https://doi.org/10.1353/wal.2003.0032>.
 
 Cook, Frederick Albert. To the Top of the Continent;Discovery, Exploration and Adventure in Sub-Arctic Alaska. The First Ascent of Mt. McKinley, 1903-1906,. New York, 1908. <http://hdl.handle.net/2027/njp.32101020795371>.
