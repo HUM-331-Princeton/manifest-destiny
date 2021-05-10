@@ -19,7 +19,10 @@ _Some journal entries edited for length._
 
 Here's the pages from Thomas's journal:
 
+October Weekend, page 81
 <iframe src="https://drive.google.com/file/d/1vzLvfaFSSyjhldTdv3GDKiFC8fobsx5P/preview" width="640" height="480"></iframe>
+
+June 24, page 24
 <iframe src="https://drive.google.com/file/d/15bKcGf4F8bE3LL3DWSzNkkPBOKA0TUZ4/preview" width="640" height="480"></iframe>
 
 And here's the pages from Nellie's journal:
