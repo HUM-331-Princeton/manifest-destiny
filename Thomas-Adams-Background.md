@@ -26,6 +26,10 @@ With all this in mind, I hope you enjoy learning about Thomas Adams and Nellie M
 
 ### References
 
+Adams, Thomas. “Journal.” Digital PUL, 1853-1854. Accessed May 9, 2021.[https://dpul.princeton.edu/pudl0017/catalog/qr46r491g](https://dpul.princeton.edu/pudl0017/catalog/qr46r491g).
+
+Adams, Thomas. "Volume II." Digital PUL 1853-1854. Accessed May 9, 2021.[https://dpul.princeton.edu/pudl0017/catalog/vh53x083j](https://dpul.princeton.edu/pudl0017/catalog/vh53x083j).
+
 “Stevens Pacific Railroad Survey.” Stevens Pacific Railroad Survey - Smithsonian National Museum of Natural History, [naturalhistory.si.edu/research/botany/about/historical-expeditions/stevens-pacific-railroad-survey](https://naturalhistory.si.edu/research/botany/about/historical-expeditions/stevens-pacific-railroad-survey)
 
 “Thomas Adams Papers, 1852-1859 - Finding Aids.” Princeton University, The Trustees of Princeton University, [findingaids.princeton.edu/catalog/C1452#description](https://findingaids.princeton.edu/catalog/C1452#description).
