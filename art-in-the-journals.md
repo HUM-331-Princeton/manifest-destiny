@@ -91,7 +91,7 @@ Take a look at the examples below. Notice how the names and the likenesses match
 _On the left is the image from Sohon's drawing, and on the right is Adams' sketch._
 
 ![Beartrack](https://raw.githubusercontent.com/HUM-331-Princeton/manifest-destiny/main/_images/beartrackhat.png)
-_Once again, Sohon's drawing is on the left andnAdams' is on the right._
+_Once again, Sohon's drawing is on the left and Adams' is on the right._
 
 Although there’s not really a definitive way to prove that the drawings were copied, the evidence certainly points to that assumption. But while the question of whether or not the drawings were copied is an interesting one, we do not have a conclusive answer. 
 
