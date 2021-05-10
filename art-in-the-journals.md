@@ -13,7 +13,7 @@ In both journals, art plays a prominent role. From poetry and photographs to dra
 
 Nellie Martin Wade included a poem about Denali (referred to by Wade as Mount McKinley) in the tenth chapter of her manuscript, which she penned upon viewing the mountain for the first time.
 
-“Having ever been a lover of Nature in all her forms and moods from the tiniest wild flowers and the most delicate ferns to her great forests, her mighty rivers, and her wondrous mountains, no sight ever impressed me more than this noble lofty peak. I could not refrain from writing these lines as a tribute to her serene glory fully, realizing that no pen has power to describe, nor, brush to paint, any thing that can justly describe such magnificent grandeur.
+> Having ever been a lover of Nature in all her forms and moods from the tiniest wild flowers and the most delicate ferns to her great forests, her mighty rivers, and her wondrous mountains, no sight ever impressed me more than this noble lofty peak. I could not refrain from writing these lines as a tribute to her serene glory fully, realizing that no pen has power to describe, nor, brush to paint, any thing that can justly describe such magnificent grandeur.
 
 	I gaze in awe and silent admiration,
 	McKinley, Grand old Mount, at you today.
@@ -48,7 +48,7 @@ Nellie Martin Wade included a poem about Denali (referred to by Wade as Mount Mc
 	For man beholding you in reverent wonder,
 	A few short years has spent his fleeting day.
 	While thou endurest supreme in kingly glory.
-	Eternal! Till all time shall pass away.”
+	Eternal! Till all time shall pass away.
 
 Religious and royal imagery is consistently present in each stanza of the poem. Wade writes that her words are not sufficient to express the mountain’s impressive nature, and her references to God and a monarch, two figures often viewed as indescribable and above all other humans, emphasise this perspective. Simultaneously, she includes a stanza that reflects a remarkably calm, feminine perspective, referring to “gentle breezes” and “sweet harmony,” revealing a less intimidating, but still spiritual, way of viewing the mountain. 
 
