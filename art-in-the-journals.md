@@ -101,6 +101,8 @@ Cook, Frederick Albert. To the Top of the Continent;Discovery, Exploration and A
 Ewers, John Canfield. Gustavus Sohon’s Portraits of Flathead and Pend d’Oreille Indians, 1854. Smithsonian Miscellaneous Collections.v. 110, No. 7. Washington: Smithsonian Institution, 1948. <https://catalog.hathitrust.org/Record/001677793>.
 
 Martin, Naomi. "To Mt. McKinley On Horseback by Nellie Martin Wade." Alaska: The Magazine of Life on the Last Frontier, June 1972.
-Wade, Nellie Martin. “General Manuscripts Miscellaneous Collection (C0140) – Wade, Nellie Martin, ‘Through Interior Alaska on Horseback and the Scenic Coast Route’ Manuscript.” Princeton University Library Finding Aids. Accessed March 8, 2021. <https://findingaids.princeton.edu/collections/C0140/c65810-06143>. 
 
-TEACHER AND STUDENT READING BIOGRAPHY OF GUSTAV SOHON. <https://www.washingtonhistory.org/wp-content/uploads/2020/04/Sohon-biography.pdf>
+"TEACHER AND STUDENT READING BIOGRAPHY OF GUSTAV SOHON." <https://www.washingtonhistory.org/wp-content/uploads/2020/04/Sohon-biography.pdf>
+
+Wade, Nellie Martin. “General Manuscripts Miscellaneous Collection (C0140) – Wade, Nellie Martin, ‘Through Interior Alaska on Horseback and the Scenic Coast Route’ Manuscript.” Princeton University Library Finding Aids. Accessed May 10, 2021. <https://findingaids.princeton.edu/collections/C0140/c65810-06143>. 
+
