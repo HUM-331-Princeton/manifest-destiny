@@ -75,6 +75,9 @@ The article also includes a hand-drawn map by Waitman Wade, Nellie’s husband, 
 
 Thomas Adams includes many drawings and sketches of the landscape and of Indigenous people he encountered on his journey. Below is the map from the first page of the journal, which appears to be hand drawn with ink and watercolors. 
 
+![Journal Page 1](https://iiif-cloud.princeton.edu/iiif/2/58%2F98%2F0f%2F58980fd66cdc4117ad5f49f3dc1060ff%2Fintermediate_file/full/1000,1494/0/default.jpg){: height="300px".center-image}
+_Here's the map!_
+
 The map is a good representation of the tone of the rest of the journal; it is focused on the facts of the journey and has a practical use. Some of Adams’s sketches are more for the purposes of illustrating the things he encounters on his journey rather than to be explicitly practical; these images allow the journal to act more like a scrapbook at certain times than the dry logbook that it usually functions as. Below are several examples of such sketches from the journal. 
 
 ### But Wait, There’s More!
