@@ -19,9 +19,8 @@ _Some journal entries edited for length._
 
 Here's the pages from Thomas's journal:
 
-<img src="https://raw.githubusercontent.com/HUM-331-Princeton/manifest-destiny/main/_images/OctoberEntries.jpeg" alt="October Journal" class="center-image" height = "450px">
-
-<img src="https://raw.githubusercontent.com/HUM-331-Princeton/manifest-destiny/main/_images/JuneEntries.jpeg" alt="June Journal" class="center-image" height = "450px">
+<iframe src="https://drive.google.com/file/d/1vzLvfaFSSyjhldTdv3GDKiFC8fobsx5P/preview" width="640" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/15bKcGf4F8bE3LL3DWSzNkkPBOKA0TUZ4/preview" width="640" height="480"></iframe>
 
 And here's the pages from Nellie's journal:
 
