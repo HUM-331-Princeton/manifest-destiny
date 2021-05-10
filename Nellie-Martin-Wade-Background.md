@@ -4,6 +4,8 @@ author1: Sophie Goldman
 title: Contextualizing Nellie Martin Wade's Journey
 ---
 
+![Nellie Martin Wade in Alaska](https://github.com/HUM-331-Princeton/manifest-destiny/raw/main/_images/NMW-1972-ArticleImgNMW.png?raw=true)
+
 ### Journeys and Journals
 
 > This unknown region had long attracted me. With a desire to know more about the country extending from the McKinley range of Mountains to the Southern Coast, we determined to explore the valley of the Great Shushitna and its principal tributaries, which drain thousands of square miles in the very heart of Alaska. - Nellie Martin Wade, "Through Interior Alaska on Horseback and The Scenic Coast Route"
