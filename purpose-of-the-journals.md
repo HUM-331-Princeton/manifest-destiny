@@ -33,15 +33,15 @@ Thomas Adams’ journal, on the other hand, is much more documentary, and he foc
 
 ## References
 
-“Barrill to Meet Cook at Lecture.” The Spokesman-Review. October 28, 1909. 
+“Barrill to Meet Cook at Lecture.” _The Spokesman-Review_. October 28, 1909. 
 
 Cook, Frederick Albert. _To the Top of the Continent; Discovery, Exploration and Adventure in Sub-Arctic Alaska. The First Ascent of Mt. McKinley, 1903-1906_. New York, 1908. <http://hdl.handle.net/2027/njp.32101020795371>.
 
 Frederick A Cook - A Digital Exhibition. “Controversy - Frederick A Cook.” Accessed May 9, 2021. <https://library.osu.edu/site/frederickcook/controversy/>.
 
-Martin, Naomi. "To Mt. McKinley On Horseback by Nellie Martin Wade." Alaska: The Magazine of Life on the Last Frontier, June 1972.
+Martin, Naomi. "To Mt. McKinley On Horseback by Nellie Martin Wade." _Alaska: The Magazine of Life on the Last Frontier_, June 1972.
 
-McClure, Rosemary. “Bloomingtonite Tells of ’06 Alaska Trip.” San Bernardino Sun. June 28, 1972.
+McClure, Rosemary. “Bloomingtonite Tells of ’06 Alaska Trip.” _San Bernardino Sun_. June 28, 1972.
 
-“Mount McKinley of Easy Ascent.” Enterprise News-Record. November 3, 1909.
+“Mount McKinley of Easy Ascent.” _Enterprise News-Record_. November 3, 1909.
  
