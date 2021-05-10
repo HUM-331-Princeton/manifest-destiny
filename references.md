@@ -3,7 +3,7 @@ layout: page
 title: References
 ---
 
-“A Brief Guide to the Fireside Poets.” Academy of American Poets. Accessed May 9, 2021. https://poets.org/text/brief-guide-fireside-poets.
+“A Brief Guide to the Fireside Poets.” Academy of American Poets. Accessed May 9, 2021. [https://poets.org/text/brief-guide-fireside-poets](https://poets.org/text/brief-guide-fireside-poets).
 
 Alaska’s Digital Archives. Accessed March 8, 2021. [https://vilda.alaska.edu/digital/collection/cdmg21/id/2631/rec/1](https://vilda.alaska.edu/digital/collection/cdmg21/id/2631/rec/1).
 
