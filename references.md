@@ -9,7 +9,7 @@ title: References
  
  Adams, Thomas. "Volume II." Digital PUL 1853-1854. Accessed May 9, 2021.[https://dpul.princeton.edu/pudl0017/catalog/vh53x083j](https://dpul.princeton.edu/pudl0017/catalog/vh53x083j).
 
-Alaska’s Digital Archives. Accessed March 8, 2021. [https://vilda.alaska.edu/digital/collection/cdmg21/id/2631/rec/1](https://vilda.alaska.edu/digital/collection/cdmg21/id/2631/rec/1).
+Alaska’s Digital Archives. Accessed May 10, 2021. [https://vilda.alaska.edu/digital/collection/cdmg21/id/2631/rec/1](https://vilda.alaska.edu/digital/collection/cdmg21/id/2631/rec/1).
 
 “Barrill to Meet Cook at Lecture.” _The Spokesman-Review_. October 28, 1909. 
 
