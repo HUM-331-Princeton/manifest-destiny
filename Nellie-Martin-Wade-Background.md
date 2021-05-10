@@ -48,26 +48,28 @@ Travel to the other pages on this site to learn more about Nellie Martin Wade's 
 
 ### References
 
-Alaska’s Digital Archives. Accessed March 8, 2021. [https://vilda.alaska.edu/digital/collection/cdmg21/id/2631/rec/1](https://vilda.alaska.edu/digital/collection/cdmg21/id/2631/rec/1).
+Alaska’s Digital Archives. Accessed May 10, 2021. [https://vilda.alaska.edu/digital/collection/cdmg21/id/2631/rec/1](https://vilda.alaska.edu/digital/collection/cdmg21/id/2631/rec/1).
 
-Central Council Tlingit & Haida Indian Tribes of Alaska. “Our History,” n.d. [http://www.ccthita.org/about/history/index.html](http://www.ccthita.org/about/history/index.html).
+Central Council Tlingit & Haida Indian Tribes of Alaska. “Our History,” Accessed May 10, 2021. [http://www.ccthita.org/about/history/index.html](http://www.ccthita.org/about/history/index.html).
 
-Jonaitis, Aldona. Discovering Totem Poles: A Traveler's Guide. Seattle; London: University of Washington Press, 2012. Accessed May 10, 2021. <http://www.jstor.org/stable/j.ctvcwn4sn>.
+“General Manuscripts Miscellaneous Collection (C0140) -- Wade, Nellie Martin, ‘Through Interior Alaska on Horseback and the Scenic Coast Route’ Manuscript.” Princeton University Library Finding Aids. Accessed May 10, 2021. [https://findingaids.princeton.edu/collections/C0140/c65810-06143](https://findingaids.princeton.edu/collections/C0140/c65810-06143).
+
+Jonaitis, Aldona. _Discovering Totem Poles: A Traveler's Guide_. Seattle; London: University of Washington Press, 2012. Accessed May 10, 2021. <http://www.jstor.org/stable/j.ctvcwn4sn>.
 
 Luray, Elyse. “EPISODE 9,2004: GOLD SHIP, SOUTH EAST ALASKA.,” 2004.[http://www-tc.pbs.org/opb/historydetectives/static/media/transcripts/2011-05-22/209\_goldship.pdf](http://www-tc.pbs.org/opb/historydetectives/static/media/transcripts/2011-05-22/209_goldship.pdf).
 
-Mayer, Melanie J. Klondike Women: True Tales of the 1897-98 Gold Rush. Athens, Ohio:, 1989. [http://hdl.handle.net/2027/mdp.39015015496634](http://hdl.handle.net/2027/mdp.39015015496634).
+Mayer, Melanie J. _Klondike Women: True Tales of the 1897-98 Gold Rush_. Athens, Ohio:, 1989. [http://hdl.handle.net/2027/mdp.39015015496634](http://hdl.handle.net/2027/mdp.39015015496634).
 
 Merritt, Steven. “Researchers Identify Famous Gold Rush Steamer.” Alaska. Anchorage: MCC Magazines, LLC d/b/a Alaska Magazine, February 2005. 215849385. ProQuest Central.
 
-National Park Service. “What Was the Klondike Gold Rush?,” n.d. [https://www.nps.gov/klgo/learn/goldrush.htm](https://www.nps.gov/klgo/learn/goldrush.htm).
+National Park Service. “What Was the Klondike Gold Rush?,” Accessed May 10, 2021. [https://www.nps.gov/klgo/learn/goldrush.htm](https://www.nps.gov/klgo/learn/goldrush.htm).
 
-National Park Service. “Wildlife,” n.d. [https://www.nps.gov/dena/learn/nature/wildlife.htm](https://www.nps.gov/dena/learn/nature/wildlife.htm).
+National Park Service. “Wildlife,”  Accessed May 10, 2021. [https://www.nps.gov/dena/learn/nature/wildlife.htm](https://www.nps.gov/dena/learn/nature/wildlife.htm).
 
-National Park Service. "Women Who Went to the Klondike," n.d. [https://www.nps.gov/articles/klgo-klondike-women.htm](https://www.nps.gov/articles/klgo-klondike-women.htm)
+National Park Service. "Women Who Went to the Klondike," Accessed May 10, 2021. [https://www.nps.gov/articles/klgo-klondike-women.htm](https://www.nps.gov/articles/klgo-klondike-women.htm)
 
-SFU Digitized Collections. “British Columbia Postcards Collection.” Accessed March 8, 2021. [https://digital.lib.sfu.ca/islandora/object/bcp:collection](https://digital.lib.sfu.ca/islandora/object/bcp:collection).
+SFU Digitized Collections. “British Columbia Postcards Collection.” Accessed May 10, 2021. [https://digital.lib.sfu.ca/islandora/object/bcp:collection](https://digital.lib.sfu.ca/islandora/object/bcp:collection).
 
-“University of Washington Libraries Digital Collections.” Accessed March 8, 2021. [https://content.lib.washington.edu/](https://content.lib.washington.edu/).
+“University of Washington Libraries Digital Collections.” Accessed May 10, 2021. [https://content.lib.washington.edu/](https://content.lib.washington.edu/).
 
-Wade, Nellie Martin. “General Manuscripts Miscellaneous Collection (C0140) -- Wade, Nellie Martin, ‘Through Interior Alaska on Horseback and the Scenic Coast Route’ Manuscript.” Princeton University Library Finding Aids. Accessed March 8, 2021. [https://findingaids.princeton.edu/collections/C0140/c65810-06143](https://findingaids.princeton.edu/collections/C0140/c65810-06143).
+Wade, Nellie Martin. “Through Interior Alaska on Horseback and the Scenic Coast Route,” 1907. <https://findingaids.princeton.edu/catalog/C0140_c65810-06143>.
