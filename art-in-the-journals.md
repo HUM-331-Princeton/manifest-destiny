@@ -13,42 +13,35 @@ In both journals, art plays a prominent role. From poetry and photographs to dra
 
 Nellie Martin Wade included a poem about Denali (referred to by Wade as Mount McKinley) in the tenth chapter of her manuscript, which she penned upon viewing the mountain for the first time.
 
-> Having ever been a lover of Nature in all her forms and moods from the tiniest wild flowers and the most delicate ferns to her great forests, her mighty rivers, and her wondrous mountains, no sight ever impressed me more than this noble lofty peak. I could not refrain from writing these lines as a tribute to her serene glory fully, realizing that no pen has power to describe, nor, brush to paint, any thing that can justly describe such magnificent grandeur.
-
->> I gaze in awe and silent admiration,
-   McKinley, Grand old Mount, at you today.
-   You rear your head, majestic, towering Heavenward
-   As you’ve done for countless ages passed away.
-
-	O mighty monarch, when I first beheld you,
-	Your wondrous form uplifted to the sky,
-	Your hoary head aglow with God’s great sunlight,
-	Reflecting glory on all peaks near by.
-
-	Marveling, I wondered at the power, old mountain,
-	That could create your rocky sides so grand.
-	Thou art a temple; Yea a shrine eternal;
-	Mute witness unto God’s omnipotent hand.
-
-	O Mount, your snowy crown so far above me,
-	So noble, grand, inspiring, aye, sublime,
-	Has tuned these myriad voices all around me,
-	To sing eternal praise of the Divine.
-
-	The gentle breezes sighing through the pine trees,
-	The brooklet murmuring on its lonely way,
-	The bees and birds afar off in the woodland,
-	All join in one sweet harmony of praise.
-
-	Yea, all grand things, both great and small about me
-	Pay homage to you, dear, old mount sublime.
-	Your glaciers, streams, your trees and e’en the daisy.
-	Thou silent monarch, prince of power and time.
-
-	For man beholding you in reverent wonder,
-	A few short years has spent his fleeting day.
-	While thou endurest supreme in kingly glory.
-	Eternal! Till all time shall pass away.
+> Having ever been a lover of Nature in all her forms and moods from the tiniest wild flowers and the most delicate ferns to her great forests, her mighty rivers, and her wondrous mountains, no sight ever impressed me more than this noble lofty peak. I could not refrain from writing these lines as a tribute to her serene glory fully, realizing that no pen has power to describe, nor, brush to paint, any thing that can justly describe such magnificent grandeur. <br>
+>> I gaze in awe and silent admiration,<br>
+   McKinley, Grand old Mount, at you today.<br>
+   You rear your head, majestic, towering Heavenward<br>
+   As you’ve done for countless ages passed away.<br><br>
+   O mighty monarch, when I first beheld you,<br>
+	Your wondrous form uplifted to the sky,<br>
+	Your hoary head aglow with God’s great sunlight,<br>
+	Reflecting glory on all peaks near by.<br><br>
+	Marveling, I wondered at the power, old mountain,<br>
+	That could create your rocky sides so grand.<br>
+	Thou art a temple; Yea a shrine eternal;<br>
+	Mute witness unto God’s omnipotent hand.<br><br>
+	O Mount, your snowy crown so far above me,<br>
+	So noble, grand, inspiring, aye, sublime,<br>
+	Has tuned these myriad voices all around me,<br>
+	To sing eternal praise of the Divine.<br><br>
+	The gentle breezes sighing through the pine trees,<br>
+	The brooklet murmuring on its lonely way,<br>
+	The bees and birds afar off in the woodland,<br>
+	All join in one sweet harmony of praise.<br><br>
+	Yea, all grand things, both great and small about me <br>
+	Pay homage to you, dear, old mount sublime.<br>
+	Your glaciers, streams, your trees and e’en the daisy.<br>
+	Thou silent monarch, prince of power and time.<br><br>
+	For man beholding you in reverent wonder,<br>
+	A few short years has spent his fleeting day.<br>
+	While thou endurest supreme in kingly glory.<br>
+	Eternal! Till all time shall pass away.<br>
 
 Religious and royal imagery is consistently present in each stanza of the poem. Wade writes that her words are not sufficient to express the mountain’s impressive nature, and her references to God and a monarch, two figures often viewed as indescribable and above all other humans, emphasise this perspective. Simultaneously, she includes a stanza that reflects a remarkably calm, feminine perspective, referring to “gentle breezes” and “sweet harmony,” revealing a less intimidating, but still spiritual, way of viewing the mountain. 
 
