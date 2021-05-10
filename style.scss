@@ -201,7 +201,7 @@ img {
 
 .banner-container {
   margin: 0px auto;
-  height: 75%
+  height: 50%
 }
 
 .site-banner {
@@ -215,7 +215,7 @@ img {
 }
 
 .site-info {
-  float: right;
+  float: center;
 
   @include mobile {
     float: none;
