@@ -17,7 +17,7 @@ The prose in Wade’s writing, as well as the careful layout of the journal with
 
 ![Enterprise News-Record Article - Nov 3 1909](https://github.com/HUM-331-Princeton/manifest-destiny/blob/main/_images/EnterpriseArticle.jpg?raw=true)
 
-This article also reveals another purpose of the journal: to provide evidence for another explorer’s accounts. Frederick Cook claimed to have submitted Mt. McKinley in 1906, and Wade writes about the success of his trip in the journal. However, two men who had joined Cook in 1906 questioned the photographs he had published, creating conflict. As seen in the article, the Wades disagreed, claiming in 1909 that Cook could in fact have succeeded, using the journal’s narrative as proof. It seems that this was not convincing, as Cook was shunned for his actions and is not accepted as the first settler to summit the mountain, but still demonstrates the value of the journal in contexts not anticipated by Wade. 
+This article also reveals another purpose of the journal: to provide evidence for another explorer’s accounts. Frederick Cook claimed to have summitted Mt. McKinley in 1906, and Wade writes about the success of his trip in the journal. However, two men who had joined Cook in 1906 questioned the photographs he had published, creating conflict. As seen in the article, the Wades disagreed, claiming in 1909 that Cook could in fact have succeeded, using the journal’s narrative as proof. It seems that this was not convincing, as Cook was shunned for his actions and is not accepted as the first settler to summit the mountain, but still demonstrates the value of the journal in contexts not anticipated by Wade. 
 
 ## Publication Possibilities
 
