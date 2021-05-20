@@ -67,7 +67,7 @@ While researching the journey of the journal itself from Wade’s trip to the pr
 ![Tyonek, Alaska](https://github.com/HUM-331-Princeton/manifest-destiny/blob/main/_images/NMW-1972-ArticleImgTyonek.png?raw=true)
 ![Horse in Alaska](https://github.com/HUM-331-Princeton/manifest-destiny/blob/main/_images/NMW-1972-ArticleImg1.png?raw=true)
 
-The article also includes a hand-drawn map by Waitman Wade, Nellie’s husband, of the Susitna Valley. While the labels are hard to read, the map signifies To fully understand the role of hand-drawn work in these manuscripts, we now return to Thomas Adams’ journal.
+The article also includes a hand-drawn map by Waitman Wade, Nellie’s husband, of the Susitna Valley. While the labels are hard to read, the map signifies the detailed understanding that the Wades gained of the Alaskan landscape. To fully understand the role of hand-drawn work in these manuscripts, we now return to Thomas Adams’ journal.
 
 ![Map by Waitman Wade](https://github.com/HUM-331-Princeton/manifest-destiny/blob/main/_images/NMW-1972-ArticleImgMap.png?raw=true)
 
